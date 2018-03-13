@@ -1,0 +1,11 @@
+{
+  "name": "request-debugger",
+  "version": "1.0.0",
+  "main": "-",
+  "repository": "git@github.com:yepzy/request-debugger.git",
+  "author": "Yepzy <cyril.bid@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
